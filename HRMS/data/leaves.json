@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "6958d56661bcc20b69b284ad",
+    "employee_id": "6958d51161bcc20b69b28478",
+    "leave_type": "Sick",
+    "start_date": "2026-01-03T00:00:00.000Z",
+    "end_date": "2026-01-14T00:00:00.000Z",
+    "reason": "gzdvdzv",
+    "attachment_url": "",
+    "status": "Approved",
+    "createdAt": "2026-01-03T08:37:58.647Z",
+    "updatedAt": "2026-01-03T08:43:50.091Z",
+    "__v": 0
+  },
+  {
+    "_id": "6958dd69aeee70ede6ab60a4",
+    "employee_id": "6958bde0a9cd273dc8514809",
+    "leave_type": "Sick",
+    "start_date": "2026-01-03T00:00:00.000Z",
+    "end_date": "2026-01-15T00:00:00.000Z",
+    "reason": "adf",
+    "attachment_url": "",
+    "status": "Approved",
+    "createdAt": "2026-01-03T09:12:09.808Z",
+    "updatedAt": "2026-01-03T09:41:13.435Z",
+    "__v": 0
+  },
+  {
+    "_id": "6958f01c0ea20b34bf2422d6",
+    "employee_id": "6958edfd6e22ea816c7e492f",
+    "leave_type": "Sick",
+    "start_date": "2026-01-07T00:00:00.000Z",
+    "end_date": "2026-01-14T00:00:00.000Z",
+    "reason": "bfgsg",
+    "attachment_url": "",
+    "status": "Rejected",
+    "createdAt": "2026-01-03T10:31:57.003Z",
+    "updatedAt": "2026-01-03T10:33:32.193Z",
+    "__v": 0
+  }
+]
